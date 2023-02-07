@@ -1,7 +1,7 @@
 # EEG-Decoding
 脑电信号解码的真实证据
 
-详细说明：[EEG-Decoding](https://github.com/lwlBCI/EEG-Decoding/blob/main/%E8%84%91%E7%94%B5%E4%BF%A1%E5%8F%B7%E8%A7%A3%E7%A0%81%E7%9A%84%E8%AF%81%E6%8D%AE.md)
+详细说明：[EEG-Decoding](https://github.com/lwlBCI/EEG-Decoding/blob/main/EEG%E8%A7%A3%E7%A0%81%E7%9A%84%E8%AF%81%E6%8D%AE.md)
 
 **如遇到任何问题，请联系：**
 
